@@ -6,6 +6,6 @@ Aqui te contamos todo sobre los beneficios de practicarlos de cuales puedes inco
 ## Beneficios de los Deportes a Cuaticos 
 Practicar cualquier tipo de deporte acuatico como la natacion es una muy buena actividad para las articulaciones por lo que pueden ser perfectos para mantener alejadas las lesiones
 
-## Deportes acaticos Olimpicos
+## Nuestras instalaciones
 
 ## Deporte acutico en equipo
