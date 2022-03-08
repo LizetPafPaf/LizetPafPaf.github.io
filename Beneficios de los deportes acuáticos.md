@@ -1,1 +1,1 @@
-[beneficios de los deportes](./befeficiosdelosdeportes.md)|[deportes acuaticos olimpicos]|(./deportesacuaticosolimpicos.md)|[deporte acuatico en equipos](deporteacuaticoenequipos.md)
+[beneficios de los deportes](./befeficiosdelosdeportes.md)|[nuestras instalaciones](./nuestrasinstalaciones.md)|[deporte acuatico en equipos](deporteacuaticoenequipos.md)
