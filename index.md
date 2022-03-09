@@ -13,3 +13,4 @@ Practicar cualquier tipo de deporte acuatico como la natacion es una muy buena a
 
 ## Deporte acutico en equipo
 ![image](https://user-images.githubusercontent.com/99769712/157529152-3f3e1bfa-acee-42c1-ac47-6070ac8a66fb.png)
+
