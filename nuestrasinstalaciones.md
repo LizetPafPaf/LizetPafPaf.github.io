@@ -1,4 +1,5 @@
-[beneficios](./beneficios.md) | [deportesacuaticos](./deportesacuaticos) | [nuestrasinstalaciones](./nuestrasinstalaciones) | 
+[Beneficios](./beneficios.md) | [Deportes Acuáticos](./deportesacuaticos.md) | [Nuestras Instalaciones](./nuestrasinstalaciones.md) | 
+
 
 
 ## Nuestras Instalaciones
