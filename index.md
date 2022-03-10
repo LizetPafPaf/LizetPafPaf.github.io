@@ -1,3 +1,5 @@
+[beneficios](./beneficios.md) | [deportesacuaticos](./deportesacuaticos) | [nuestrasinstalaciones](./nuestrasinstalaciones) | 
+
 ## Bienvenidio a nuestra empresa
 
 Nuestra empresa es ideal para que se especialize en deportes acuaticos. Es ideal para cualquier tipo de persona de niños hasta adultos mayores.
