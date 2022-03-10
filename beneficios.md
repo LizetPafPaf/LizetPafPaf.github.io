@@ -1,4 +1,4 @@
-[beneficios](./beneficios.md) | [deportesacuaticos](./deportesacuaticos) | [nuestrasinstalaciones](./nuestrasinstalaciones) | 
+[Beneficios](./beneficios.md) | [Deportes Acuáticos](./deportesacuaticos.md) | [Nuestras Instalaciones](./nuestrasinstalaciones.md) | 
 
 
 ## Los beneficios de los Deportes Acuiticos
