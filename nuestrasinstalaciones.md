@@ -12,3 +12,5 @@ Nuestras intalaciones tienen gimnasio, regaderas, vestidores y lavanaderia asi c
 
 Nosotros queremos que te sientas comodo y agusto en nuestras instalaciones para que practiques, disfrures y te diviertas.
 
+![image](https://user-images.githubusercontent.com/99769712/157767334-6b129037-71b7-4e7c-bd51-4cb5673839b6.png)
+
