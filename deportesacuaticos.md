@@ -21,3 +21,6 @@ Peparamos un alista de deportes acuticos con 15 actividades emocionantes y aptas
 - Vela
 - Paddle surf
 - Subwing
+
+![image](https://user-images.githubusercontent.com/99769712/157767525-42aebffd-c8d5-447f-bcc4-8f54217ce84e.png)
+
