@@ -11,20 +11,15 @@
   <input type="text" id="name" name="name" valve="Tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
  <input type="text" id="lname" name="lname" valve="Apellidos"><br> 
+  <label for="name">Correo Electronico:</label><br>
+  <input type="text" id="name" name="name" valve="Pon tu correo"><br>
+  <label form="name">Cita:</label><br>
+  <input type="text" id="name" name="name" valve="Pon tu cita"><br>
+  <label form="name">Direccion:</label><br>
+  <input type="text" id="name" name="name" valve="Numero"><br>
+  
+  <label form="name">Deporte solicitado:</label><br>
+  <input type="text" id="name" name="name" valve="Deporte solicitado"><br>
+  <input type="swbmit" valve="submit">
   </form>
   
-
-<form>
-  <label form="correo electronico">Correro Electronico:/<label><br>
-    <input type="text" id="correo electronico" correo electronico="correo electronico" valve="correo electronico"><br>
-    <label for="telefono">Telefono:</label><br>
-    <input type="text" id="ltelefono" telefono="ltelefono" valve="telefono"><br>
-    </form>
-
-
- <form>
-   <label form="cita">Cita:/<label><br>
-     <input type="text" id="cita" cita="cita" valve="cita"><br>
-     <label for="Deporte">Deporte:</label><br>
-     <input type="Deporte" id="lDeporte" deporte=l"deporte" valve="deporte"><br>
-     </form>
