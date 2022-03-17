@@ -20,3 +20,11 @@
     <label for="telefono">Telefono:</label><br>
     <input type="text" id="ltelefono" telefono="ltelefono" valve="telefono"><br>
     </form>
+
+
+ <form>
+   <label form="cita">Cita:/<label><br>
+     <input type="text" id="cita" cita="cita" valve="cita"><br>
+     <label for="Deporte">Deporte:</label><br>
+     <input type="Deporte" id="lDeporte" deporte=l"deporte" valve="deporte"><br>
+     </form>
