@@ -1,4 +1,4 @@
-[Beneficios](./beneficios.md) | [Deportes Acuaticos](./deportesacuaticos.md) | [Nuestras Instalaciones](./nuestrasinstalaciones.md) | [Contactos](./contactos) |
+[Beneficios](./beneficios.md) | [Deportes Acuaticos](./deportesacuaticos.md) | [Nuestras Instalaciones](./nuestrasinstalaciones.md) | [Contactos](./contactos.md) |
 
 | Nombre de la Persona | Telefono | Deporte | Fecha |
 | --- | --- | --- | --- | 
