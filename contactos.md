@@ -23,3 +23,4 @@
   <input type="swbmit" valve="submit">
   </form>
   
+ <input type="enviar" value="enviar">
