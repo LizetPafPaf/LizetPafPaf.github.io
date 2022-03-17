@@ -1,4 +1,4 @@
-[Beneficios](./beneficios.md) | [Deportes Acuáticos](./deportesacuaticos.md) | [Nuestras Instalaciones](./nuestrasinstalaciones.md) | 
+[Beneficios](./beneficios.md) | [Deportes Acuáticos](./deportesacuaticos.md) | [Nuestras Instalaciones](./nuestrasinstalaciones.md) | [Contactos](./contactos.md) |  
 
 ## Bienvenidio a nuestra empresa
 
