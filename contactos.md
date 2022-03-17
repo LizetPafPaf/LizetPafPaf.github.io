@@ -13,3 +13,10 @@
  <input type="text" id="lname" name="lname" valve="Apellidos"><br> 
   </form>
   
+
+<form>
+  <label form="correo electronico">Correro Electronico:/<label><br>
+    <input type="text" id="correo electronico" correo electronico="correo electronico" valve="correo electronico"><br>
+    <label for="telefono">Telefono:</label><br>
+    <input type="text" id="ltelefono" telefono="ltelefono" valve="telefono"><br>
+    </form>
