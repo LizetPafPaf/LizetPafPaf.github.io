@@ -20,7 +20,8 @@
   
   <label form="name">Deporte solicitado:</label><br>
   <input type="text" id="name" name="name" valve="Deporte solicitado"><br>
-  <input type="swbmit" valve="submit">
+  <input type="enviar" value="enviar">
   </form>
   
- <input type="enviar" value="enviar">
+  
+
