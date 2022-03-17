@@ -1,4 +1,4 @@
-[Beneficios](./beneficios.md) | [Deportes Acuáticos](./deportesacuaticos.md) | [Nuestras Instalaciones](./nuestrasinstalaciones.md) | [Contactos](./contactos.md) |
+[Beneficios](./beneficios.md) | [Deportes Acuaticos](./deportesacuaticos.md) | [Nuestras Instalaciones](./nuestrasinstalaciones.md) | [Contactos](./contactos) |
 
 
 ## Los beneficios de los Deportes Acuiticos
