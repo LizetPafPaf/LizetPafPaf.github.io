@@ -25,4 +25,4 @@
 <label for="birthday">Birthday:</label>
   <input type="date" id="birthday" name="birthday">
   <input type="submit" value="Submit">
-  </form
+  </form>
