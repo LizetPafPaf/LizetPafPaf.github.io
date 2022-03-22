@@ -13,8 +13,6 @@
  <input type="text" id="lname" name="lname" valve="Apellidos"><br> 
   <label for="name">Correo Electronico:</label><br>
   <input type="text" id="name" name="name" valve="Pon tu correo"><br>
-  <label form="name">Cita:</label><br>
-  <input type="text" id="name" name="name" valve="Pon tu cita"><br>
   <label form="name">Direccion:</label><br>
   <input type="text" id="name" name="name" valve="Numero"><br>
   <label for="name">Producto Deporte solicitado:</label><br>
@@ -23,8 +21,8 @@
   </form>
   
   <form action="/action_page.php">
-  <label for="birthday">Birthday:</label>
-  <input type="date" id="birthday" name="birthday">
+  <label for="birthday">Cita:</label>
+  <input type="date" id="birthday" name="Cita">
   <input type="submit" value="Submit">
   </form>
   
