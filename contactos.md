@@ -24,5 +24,5 @@
   
   <label for="birthday">Birthday:</label>
   <input type="date" id="birthday" name="birthday">
-  <input type="submit" value="Submit">
-  
+  <input type="Enviar" value="Enviar">
+  </form>
