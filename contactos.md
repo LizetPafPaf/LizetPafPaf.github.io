@@ -22,4 +22,7 @@
   <input type="submit" value="Enviar">
   </form>
   
-
+<label for="birthday">Birthday:</label>
+  <input type="date" id="birthday" name="birthday">
+  <input type="submit" value="Submit">
+  </form
