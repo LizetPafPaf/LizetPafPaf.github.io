@@ -21,5 +21,11 @@
   <input type="text" id="name" name="name" valve="Deporte solicitado"><br>
   <input type="submit" value="Enviar">
   </form>
+  form action="/action_page.php">
+  <label for="birthday">Birthday:</label>
+  <input type="date" id="birthday" name="birthday">
+  <input type="submit" value="Submit">
+  </form>
+  
   
  
