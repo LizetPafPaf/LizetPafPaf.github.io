@@ -22,8 +22,4 @@
   <input type="submit" value="Enviar">
   </form>
   
-  <form action="/action_page.php">
-  <label for="birthday">Birthday:</label>
-  <input type="date" id="birthday" name="birthday">
-  <input type="Enviar" value="Enviar">
-  </form>
+ 
