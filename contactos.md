@@ -23,7 +23,7 @@
   <form action="/action_page.php">
   <label for="birthday">Cita:</label>
   <input type="date" id="birthday" name="Cita">
-  <input type="submit" value="Submit">
+  <input type="submit" value="Enviar">
   </form>
   
   
