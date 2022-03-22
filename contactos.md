@@ -17,11 +17,9 @@
   <input type="text" id="name" name="name" valve="Pon tu cita"><br>
   <label form="name">Direccion:</label><br>
   <input type="text" id="name" name="name" valve="Numero"><br>
-  
-  <label form="name">Deporte solicitado:</label><br>
+  <label for="name">Producto Deporte solicitado:</label><br>
   <input type="text" id="name" name="name" valve="Deporte solicitado"><br>
   <input type="submit" value="Enviar">
   </form>
-  
   
 
