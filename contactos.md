@@ -20,7 +20,7 @@
   
   <label form="name">Deporte solicitado:</label><br>
   <input type="text" id="name" name="name" valve="Deporte solicitado"><br>
-  <input type="enviar" value="enviar">
+  <input type="submit" value="Enviar">
   </form>
   
   
