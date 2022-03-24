@@ -6,7 +6,7 @@
 | ![wa link_vkhb0m](https://user-images.githubusercontent.com/99769712/158485802-b86ac36b-a420-46dc-aedf-9f63ae1808d3.png)
 
 
- <form action="https://formspree.io/f/mzbovnqp">
+ <form action="https://formspree.io/f/mzbovnqp"methood="post">
   <label form="name">Nombres:</label><br>
   <input type="text" id="name" name="name" valve="Tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
