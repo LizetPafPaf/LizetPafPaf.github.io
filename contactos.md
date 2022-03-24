@@ -17,7 +17,6 @@
   <input type="text" id="name" name="name" valve="Numero"><br>
   <label for="name">Producto Deporte solicitado:</label><br>
   <input type="text" id="name" name="name" valve="Deporte solicitado"><br>
-  <input type="submit" value="Enviar">
   </form>
   
   
